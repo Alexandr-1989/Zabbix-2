@@ -8,10 +8,7 @@
 Создайте Item который будет собирать информацию об загрузке RAM в процентах
 Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
-<img width="3158" height="662" alt="Screenshot_5" src="https://github.com/user-attachments/assets/ca311aa7-0e9e-4b56-b8a4-a69c7f6e3d68" />
-<img width="1085" height="361" alt="Screenshot_6" src="https://github.com/user-attachments/assets/d101b6c8-7aae-404c-9c07-728a8ae84f25" />
-<img width="1065" height="778" alt="Screenshot_9" src="https://github.com/user-attachments/assets/2da6894d-d6ea-4a0c-8a87-a216907469c7" />
-<img width="1074" height="786" alt="Screenshot_7" src="https://github.com/user-attachments/assets/e611992a-bbe2-4d93-96a2-ded185a251ba" />
+https://github.com/Alexandr-1989/Zabbix-2/blob/main/images/Screenshot_13.png
 
  Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
@@ -25,7 +22,7 @@
 Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 Требования к результату
  Результат данного задания сдавайте вместе с заданием 3
-<img width="3149" height="516" alt="Screenshot_1" src="https://github.com/user-attachments/assets/dbe7fbe3-ca61-499e-9107-1fd653414279" />
+
 
  Задание 3
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
@@ -38,7 +35,7 @@
 Требования к результату
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
- <img width="3128" height="640" alt="Screenshot_2" src="https://github.com/user-attachments/assets/077fe03d-34fa-4dcd-8c2f-af5249e3a59d" />
+
 Задание 4
 Создайте свой кастомный дашборд.
 
@@ -48,4 +45,4 @@
 Разместите на нём несколько графиков на ваше усмотрение.
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
-<img width="3156" height="1181" alt="Screenshot_3" src="https://github.com/user-attachments/assets/36f18e73-c196-43a9-a576-fe82f70d7111" />
+
