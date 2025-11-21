@@ -8,7 +8,11 @@
 Создайте Item который будет собирать информацию об загрузке RAM в процентах
 Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
-https://github.com/Alexandr-1989/Zabbix-2/blob/main/images/Screenshot_13.png?raw=true
+<img width="1051" height="429" alt="Screenshot_13" src="https://github.com/user-attachments/assets/b133cdb7-6abe-4475-aa2a-d3712444b41d" />
+<img width="1058" height="322" alt="Screenshot_5" src="https://github.com/user-attachments/assets/befc7522-a543-49f0-b918-712212aa244d" />
+<img width="1044" height="767" alt="Screenshot_2" src="https://github.com/user-attachments/assets/3374fe74-9064-45e8-9b7e-4f91b4521aff" />
+<img width="1047" height="766" alt="Screenshot_3" src="https://github.com/user-attachments/assets/054e25b4-508a-4e28-a675-a8c6f8b39bb9" />
+
 
  Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
@@ -22,6 +26,7 @@ https://github.com/Alexandr-1989/Zabbix-2/blob/main/images/Screenshot_13.png?raw
 Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 Требования к результату
  Результат данного задания сдавайте вместе с заданием 3
+<img width="3151" height="495" alt="Screenshot_15" src="https://github.com/user-attachments/assets/3582869e-00bd-4388-b7a0-0f5c4b4467c1" />
 
 
  Задание 3
@@ -34,6 +39,7 @@ https://github.com/Alexandr-1989/Zabbix-2/blob/main/images/Screenshot_13.png?raw
 Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона
 Требования к результату
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
+<img width="3162" height="619" alt="Screenshot_14" src="https://github.com/user-attachments/assets/fc531d9c-5ab9-4afb-8eeb-14a6ed77e0d5" />
 
 
 Задание 4
@@ -45,4 +51,5 @@ https://github.com/Alexandr-1989/Zabbix-2/blob/main/images/Screenshot_13.png?raw
 Разместите на нём несколько графиков на ваше усмотрение.
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+<img width="3167" height="1166" alt="Screenshot_16" src="https://github.com/user-attachments/assets/0b404b49-846a-4759-8aa0-b4c02ad83470" />
 
