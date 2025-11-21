@@ -8,7 +8,7 @@
 Создайте Item который будет собирать информацию об загрузке RAM в процентах
 Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
-https://github.com/Alexandr-1989/Zabbix-2/blob/main/images/Screenshot_13.png
+https://github.com/Alexandr-1989/Zabbix-2/blob/main/images/Screenshot_13.png?raw=true
 
  Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
